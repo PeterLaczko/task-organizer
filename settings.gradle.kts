@@ -1,0 +1,1 @@
+rootProject.name = "laczko.hu.task-organizer"
